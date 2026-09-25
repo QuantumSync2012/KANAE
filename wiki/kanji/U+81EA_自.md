@@ -33,7 +33,7 @@ public_raw_transcription: forbidden
 ## 正本への接続
 
 - [用語集](../../canon/glossary.md)：自の系列と自在。
-- [原理と定理](../../canon/principles.md)：三対と形成への介入。
+- [原理と定理](../../canon/principles.md)：三対と、縁起の内に在る自在。
 - [自在](../concepts/jizai.md)：自由意志との差を含む解説。
 
 このページは正本の定義を説明するWiki層であり、字から定義を演繹する場所ではない。定義と衝突する読みが生じた場合は正本を優先する。

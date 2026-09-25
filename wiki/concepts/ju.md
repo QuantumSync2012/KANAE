@@ -1,6 +1,6 @@
 ---
 title: 受
-version: 1.2.2
+version: 0.0.1
 status: active
 ---
 

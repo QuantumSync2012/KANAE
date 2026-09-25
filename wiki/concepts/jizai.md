@@ -3,7 +3,7 @@ entity_ref: HS-C-0009
 title: 自在
 status: active
 active_revision: 3
-version: 1.2.2
+version: 0.0.1
 ---
 
 # 自在

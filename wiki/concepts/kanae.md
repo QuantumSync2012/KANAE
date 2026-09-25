@@ -111,7 +111,7 @@ status: published
 - **形成される世界**：[鼎界](teikai.md)
 - **静止した現れ／形成過程**：[物](mono.md)／[事](koto.md)
 - **観を差し出す側／受け取る側**：[主鼎観](shuteikan.md)／[客鼎観](kyakuteikan.md)
-- **形成への介入**：[自在](jizai.md)
+- **自を起点として縁起の内に在ること**：[自在](jizai.md)
 - **詳しい応答**：[FAQ](../faq.md)
 - **字そのものと採用来歴**：[漢字Wiki「鼎」](../kanji/U%2B9F0E_鼎.md)
 - **五字・神話・神事**：[白川静の字源研究と神事的メタファー](../comparisons/shirakawa.md)

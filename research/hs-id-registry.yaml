@@ -3,10 +3,10 @@
 # v1.2.0で客鼎観・源則・自在・吟味の定義改訂に伴いactive_revisionを更新。v1.2.2で自在を再改訂。
 # retiredは永続tombstone・ID再利用禁止・削除不可。
 registry_id: hs-id-registry
-registry_version: 1.2.2
+registry_version: 0.0.1
 status: active
 created: 2026-08-14T15:35:00+0900
-updated: 2026-08-22T17:31:11+0900
+updated: 2026-09-26T03:54:26+0900
 owner_writer: repository maintainer
 validator: scripts/validate_structure.rb
 

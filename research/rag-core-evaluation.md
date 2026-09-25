@@ -1,8 +1,8 @@
-# Core RAG受入質問 — v1.2.2
+# Core RAG受入質問 — v0.0.1
 
 この質問集は、公開repoには含まれずローカルで`ruby scripts/build_rag_core.rb`を実行して作る`generated/rag/`(current=`core/`とretired=`retired/`)を、qmdまたはAnythingLLMへ投入した後の固定評価に使う。`generated/rag/`はGit管理外の再生成可能な派生物であり、公開正本でも公開配布物でもない。qmdとAnythingLLMは投入時点のローカルsnapshotで、自動追随はしない。期待回答は全文一致ではなく、必須論点と禁止論点で判定する。
 
-## 契約版と構成(v1.2.2)
+## 契約版と構成(v0.0.1)
 
 - 本契約の版は`research/hs-id-registry.yaml`の`registry_version`へ同期し、`scripts/validate_rag_core.rb`のversion contractが不一致を拒否する。
 - **retired語の全量検査の正は、buildが台帳から動的生成する`generated/rag/retired/retired-fixture.json`**である(語ごとに旧語説明・現行有効性・現行語との差・混入衝突の4意図)。語数を本書へ定数として書かない。

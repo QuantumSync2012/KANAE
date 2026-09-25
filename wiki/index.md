@@ -1,9 +1,10 @@
-# 調和的主観主義 Wiki
+# KANAE（鼎）／調和的主観主義 Wiki
 
 このWikiは、定義の正本を複製する場所ではなく、概念どうしの関係をたどり、疑問から理解へ進むための説明層である。
 
 - 定義と原理の正本: [用語集](../canon/glossary.md)／[原理と定理](../canon/principles.md)
 - 最初に読む中心概念: [鼎（Kanae）](concepts/kanae.md) —— 世界を形成することで自らも形成される器
+- 中心命題の入口: [自分の世界と鼎界](../guide/my-world.md)
 - 対話形式の入口: [FAQ](faq.md)
 - 概念からたどる: [概念索引](concepts/index.md)
 - 文字からたどる: [漢字字義索引](kanji/index.md)
