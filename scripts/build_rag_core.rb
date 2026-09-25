@@ -39,6 +39,7 @@ EXACT_SOURCES = %w[
   canon/principles.md
   guide/ten-articles.md
   guide/why-needed.md
+  guide/my-world.md
   wiki/faq.md
   wiki/heart-sutra.md
   wiki/positioning.md
