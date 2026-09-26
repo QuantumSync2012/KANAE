@@ -1,6 +1,6 @@
 # なぜこの体系が必要か（第0章・第1章）
 
-**KANAE（鼎）／調和的主観主義（Harmonious Subjectivism）v0.0.1**
+**Kanae（鼎）／調和的主観主義（Harmonious Subjectivism）v0.0.1**
 **Author**: Neo
 **Published by**: QuantumSync
 

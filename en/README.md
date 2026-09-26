@@ -2,7 +2,7 @@
 
 **Author**: Neo · **Published by**: QuantumSync · **Version**: 0.1.1 (2026-07-19)
 
-> **Translation status:** This English gateway preserves Harmonious Subjectivism v0.1.1. The philosophy is now named **KANAE**, and the current Japanese canonical edition is **KANAE v0.0.1**, the start of a new version series. This translation has not yet been synchronized. For current definitions, refer to the [Japanese canonical edition](../README.md).
+> **Translation status:** This English gateway preserves Harmonious Subjectivism v0.1.1. The philosophy is now named **Kanae**, and the current Japanese canonical edition is **Kanae v0.0.1**, the start of a new version series. This translation has not yet been synchronized. For current definitions, refer to the [Japanese canonical edition](../README.md).
 
 The canonical text of this philosophy is written in Japanese, because its concepts are built from the structure of kanji. This page is the gateway. Five words are enough to enter.
 

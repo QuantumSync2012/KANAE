@@ -1,4 +1,4 @@
-# 十箇条（普及版）— KANAE（鼎）／調和的主観主義 v0.0.1
+# 十箇条（普及版）— Kanae（鼎）／調和的主観主義 v0.0.1
 
 Author: Neo / Published by QuantumSync
 

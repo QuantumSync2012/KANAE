@@ -20,7 +20,7 @@ VERSION_SOURCES = {
   "README current version" => ["README.md", /\*\*現行版\*\*: v(\d+\.\d+\.\d+)/],
   "README Japanese canon version" => ["README.md", /日本語正本.*?v(\d+\.\d+\.\d+)/],
   "canon/glossary internal version" => ["canon/glossary.md", /版宣言.*?v(\d+\.\d+\.\d+)/],
-  "canon/principles title version" => ["canon/principles.md", /\A# 原理と定理 — KANAE（鼎）／調和的主観主義 v(\d+\.\d+\.\d+)（正本）$/],
+  "canon/principles title version" => ["canon/principles.md", /\A# 原理と定理 — Kanae（鼎）／調和的主観主義 v(\d+\.\d+\.\d+)（正本）$/],
   "canon/principles internal Version line" => ["canon/principles.md", /^Version:\s*v(\d+\.\d+\.\d+)/],
   "evaluation contract version" => ["research/rag-core-evaluation.md", /\A# Core RAG受入質問 — v(\d+\.\d+\.\d+)/]
 }.freeze
