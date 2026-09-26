@@ -4,6 +4,12 @@
 
 「調和的主観主義」v1.2.2およびその公開後の更新を引き継ぎ、新名 **KANAE（鼎）** で版系列を開始した。著者の指定により、この移行版では名称・リポジトリ移行と本文修正をまとめ、v0.0.1とする。旧系列の版番号を振り直さず、Git履歴と7個の旧タグを保持する。旧リポジトリは保存し、新リポジトリへの案内を置く。
 
+この版は、版番号を据え置いた次の三段階から成る。過去の内容を引用するときは、版番号に加えて各コミットを区別する。
+
+- 初回公開：[7ebe483](https://github.com/QuantumSync2012/Kanae/commit/7ebe483e7d89f48671903403fb5d6548b29a852e)で中心命題の改訂などを反映し、[9af6d6c](https://github.com/QuantumSync2012/Kanae/commit/9af6d6c2c7fb43012321ac7c8bd1b659e8affccb)で中心命題の解説をRAG対象へ追加した。初回タグ `v0.0.1` は後者を指す。
+- 公開後の本文修正：[d164574](https://github.com/QuantumSync2012/Kanae/commit/d1645748b9f58a22ca632f7e2e67fb411f08ac46)で、下記の論証・説明の補強を反映した。
+- 正式名称の表記確定：[d0b4cc5](https://github.com/QuantumSync2012/Kanae/commit/d0b4cc55bf398a5a91c15d253f6fabc5a5248e25)で、現行表記をKanae（鼎）へ統一した。
+
 ### Changed
 - 中心命題を「自分の世界は、主観に依ってしか存在しない。／しかし、自己は縁起に依ってしか成立しない。／では、この世界に何が必要なのか？」の三行に改めた。
 - 「自分の世界」と鼎界の違い、自らの区切りと分け与えられる条件、世界と自己の形成をつなぐ解説を追加した。
@@ -43,6 +49,8 @@
 
 ## v1.2.2 — 2026-08-22
 
+v1.2.1として行った最初の更新（[8a91fb8](https://github.com/QuantumSync2012/Kanae/commit/8a91fb87e1d66c3ba4fc032e69df183b66201401)）は、[ff19eec](https://github.com/QuantumSync2012/Kanae/commit/ff19eec12628fff043a29d5370f9d8e3d96d24cb)で取り消した。その後、既存の未決課題・解決記録を保持する形で修正版（[44abff9](https://github.com/QuantumSync2012/Kanae/commit/44abff9f460aa3d40994233a969008348c84172b)）を反映し、[9e8d17f](https://github.com/QuantumSync2012/Kanae/commit/9e8d17f2abf3150d297116a31abe293b05b5f32d)でv1.2.2へ改番した。公開タグ `v1.2.2` はこの改番コミットを指す。
+
 ### Changed
 - 鼎自身の成立と他者による外部確認を分離し、鼎の成立条件を未決へ戻さないよう正本・FAQ・未決課題を同期した。
 - 自在を「縁起の中で、自らを起点として在ること」と精密化し、観と行が次の縁起の条件になることと、介入・自由意志の未決性を分けた。
@@ -55,6 +63,7 @@
 
 ### 公開後の更新
 - 2026-08-22: 公開後fold（版据え置き・タグ不変）。不採用・廃語台帳へ融合（無限定）・自由・観測・批判的思考・主体（訳語として）・現象の6行を復元（鬼→魂統合は維持。批判的思考のhs-c-0012アンカーは吟味の項へ移設済みのため台帳行には付けない）。canon/glossary.mdとcanon/principles.mdの内部版宣言をv1.2.2へ同期。FAQ Q51〜Q61の見出し様式を既存のQ1〜Q50と同形式へ統一。wiki/concepts/moji.mdへ「文字は主鼎観を可能な限り精密に物へ刻む技術である」の肯定側を追補。stable ID台帳のupdatedを実時刻へ更新。
+- 上記の公開後foldは[265463b](https://github.com/QuantumSync2012/Kanae/commit/265463b6ce6ddb612dc480fc03e4ab22427c0762)に記録した。続いて、RAG生成と版・出自の照合を[4bd10b3](https://github.com/QuantumSync2012/Kanae/commit/4bd10b3bb69e926a9991a6c21c5bdcf78ef546cc)、[e22b50a](https://github.com/QuantumSync2012/Kanae/commit/e22b50a34012794d1bdbcd83f42df1d060383e41)、[2b86378](https://github.com/QuantumSync2012/Kanae/commit/2b86378831cc25db21cb5a23e4a1dbdec24301f8)で更新した。これらはv1.2.2のタグ後更新であり、タグが指す本文と、その後のmainを区別する。
 
 ## v1.2.0 — 2026-08-22 (JST)
 
